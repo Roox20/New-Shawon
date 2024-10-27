@@ -9,14 +9,14 @@
   "saveState": true,
   "banMsg": false,
   "adminOnlyMsg": false,
-  "BOTNAME": "SHAON PROJECT",
+  "BOTNAME": "Riman- Bot",
   "PREFIX": "/",
   "OPERATOR": [
-    "100090879572769",
+    "61554009933347",
     ""
   ],
   "ADMINBOT": [
-    "100090879572769",
+    "61554009933347",
     ""
   ],
   "OWNER": ["100000959749712"], 
